@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3486" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2333" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -405,14 +405,29 @@
         <mxCell id="SpWaNqZWQhaRzg9o4lXm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1" source="SpWaNqZWQhaRzg9o4lXm-12" target="SpWaNqZWQhaRzg9o4lXm-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SpWaNqZWQhaRzg9o4lXm-145" value="Denda Pinjaman" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpWaNqZWQhaRzg9o4lXm-116">
+          <mxGeometry x="-0.1423" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SpWaNqZWQhaRzg9o4lXm-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1" source="SpWaNqZWQhaRzg9o4lXm-31" target="SpWaNqZWQhaRzg9o4lXm-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaNqZWQhaRzg9o4lXm-143" value="Diberikan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpWaNqZWQhaRzg9o4lXm-117">
+          <mxGeometry x="0.04" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SpWaNqZWQhaRzg9o4lXm-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="SpWaNqZWQhaRzg9o4lXm-12" target="SpWaNqZWQhaRzg9o4lXm-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SpWaNqZWQhaRzg9o4lXm-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="SpWaNqZWQhaRzg9o4lXm-31" target="SpWaNqZWQhaRzg9o4lXm-47">
+        <mxCell id="SpWaNqZWQhaRzg9o4lXm-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1" source="SpWaNqZWQhaRzg9o4lXm-31" target="SpWaNqZWQhaRzg9o4lXm-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaNqZWQhaRzg9o4lXm-149" value="Siswa Meminjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpWaNqZWQhaRzg9o4lXm-119">
+          <mxGeometry x="0.0054" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SpWaNqZWQhaRzg9o4lXm-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="SpWaNqZWQhaRzg9o4lXm-12" target="SpWaNqZWQhaRzg9o4lXm-71">
           <mxGeometry relative="1" as="geometry">
@@ -426,9 +441,14 @@
         <mxCell id="SpWaNqZWQhaRzg9o4lXm-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1" source="SpWaNqZWQhaRzg9o4lXm-55" target="SpWaNqZWQhaRzg9o4lXm-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="635" />
-              <mxPoint x="940" y="235" />
+              <mxPoint x="930" y="635" />
+              <mxPoint x="930" y="235" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpWaNqZWQhaRzg9o4lXm-146" value="Guru Meminjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpWaNqZWQhaRzg9o4lXm-123">
+          <mxGeometry x="-0.3151" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SpWaNqZWQhaRzg9o4lXm-126" value="Pustakawan" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
@@ -494,6 +514,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SpWaNqZWQhaRzg9o4lXm-144" value="Memasukan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpWaNqZWQhaRzg9o4lXm-140">
+          <mxGeometry x="0.0285" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SpWaNqZWQhaRzg9o4lXm-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="SpWaNqZWQhaRzg9o4lXm-81" target="SpWaNqZWQhaRzg9o4lXm-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -502,12 +527,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SpWaNqZWQhaRzg9o4lXm-147" value="Pengecekan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpWaNqZWQhaRzg9o4lXm-141">
+          <mxGeometry x="-0.0553" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SpWaNqZWQhaRzg9o4lXm-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="SpWaNqZWQhaRzg9o4lXm-81" target="SpWaNqZWQhaRzg9o4lXm-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="970" y="385" />
               <mxPoint x="970" y="435" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpWaNqZWQhaRzg9o4lXm-148" value="Pengecekan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpWaNqZWQhaRzg9o4lXm-142">
+          <mxGeometry x="-0.2116" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
